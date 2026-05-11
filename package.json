@@ -200,7 +200,7 @@
     "eslint-plugin-vitest": "0.5.4",
     "globals": "15.9.0",
     "happy-dom": "20.7.0",
-    "kysely": "0.28.10",
+    "kysely": "0.28.17",
     "lucide-react": "0.562.0",
     "motion": "12.27.1",
     "motion-plus": "0.1.6",
