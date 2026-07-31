@@ -217,7 +217,7 @@
     "mysql2": "^3.16.1",
     "nuqs": "2.8.6",
     "pathe": "2.0.3",
-    "postcss": "8.5.6",
+    "postcss": "8.5.18",
     "postcss-nested": "7.0.2",
     "postcss-prefix-selector": "2.1.1",
     "postcss-value-parser": "4.2.0",
